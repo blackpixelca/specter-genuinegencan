@@ -6,7 +6,7 @@ let portals = gsap.timeline({
   scrollTrigger: {
     trigger: ".section.is--home-portals",
     toggleActions: "play none none reverse",
-    start: "top 50%"
+    start: "top 49%"
   }
 });
 portals.from(
